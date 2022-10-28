@@ -1,0 +1,94 @@
+/************ GENERAL ************/
+
+body{
+    font-family: Corbel, Arial, sans-serif
+	margin:0;
+
+
+}
+h1 {
+	font-size: 36px;
+}
+a{
+	color: #080808;
+	text-decoration: none;
+}
+
+h2{
+	background-color: #ff9933;
+	padding-top:  30px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	border: 2px #ff0000 solid;
+
+	width: 400px;
+	margin: 0 auto;
+	height: : 200px;
+}
+
+#nav {
+	background-color: #599a68
+	text-align:center;
+}
+#nav li {
+	display: inline-block;
+	padding: 6px 8px 6px 8px;
+}
+
+#nav li a{
+	color: #003366;
+		display: inline-block;
+	}
+		
+
+		/************ HEADER ************/
+	
+#header{
+background-color:#121111;
+
+}
+h1{
+	font-size: 36px;
+	text-align: center;
+    padding: 15px 0 0 ; 
+	margin: 0; 
+	color:#ffffff;
+	text-transform: uppercase;
+}
+
+
+h2 {
+	text-align: center;
+
+}
+#nav {
+	background-color: #599a68;
+	text-align:center;
+}
+#nav li {
+
+	display: inline-block;
+	padding: 6px 8px 6px 8px;
+}
+
+#nav li a{
+	color: #ffffff;
+}
+
+
+#nav li:hover  {
+background-color: #6ab47b
+}
+/************ CONTENT ************/
+
+#content {
+       
+       width: 600px;
+       margin:30px auto; 
+
+}
+
+#content h4 {
+	border-bottom: #599a68 solid 3px;
+}
